@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I think **privacy is a basic human right**, so I build, teach and fight in favor of privacy. This last year I built two of my best-known projects: [KYCNOT](https://github.com/pluja/kycnot) and [Yotter](https://github.com/ytorg/yotter).
+🔭 I think **privacy is a basic human right**, so I build, teach and fight in favor of privacy. This last year I built two of my best-known projects: [KYCNOT](https://github.com/pluja/kycnot) and [Yotter](https://github.com/ytorg/yotter). I also mantain an **awesome-list** called [awesome-privacy](https://github.com/pluja/awesome-privacy) where you can find plenty of privacy-friendly alternatives to privative services.
 
-🌱 I’m currently learning about Blockchain and cryptocurrencies, Python and I'm working on my **OSCP Certification**. I also love selfhosting things.
+🌱 I’m currently learning about Blockchain and cryptocurrencies and I'm mainly interested in Monero. I'm also fluent in Python and learning Golang. I'm working on my **OSCP Certification**. I **love** selfhosting things.
 
 If you want to collaborate to any of my projects, you are **very welcome to do so**. 
 
