@@ -22,6 +22,7 @@ If you want to collaborate to any of my projects, you are **very welcome to do s
 
 If you like what I do, you can buy me a coffee! (Or just chat with me at: `pluja` at `r3d` dot `red`)
 
-MONERO: `89QqHoqzbucCoBjeR5rEg8GwbRga6D1AWLAfQsBoLpLRDEL8smKaPERQbVQMcwHkJV8PbRVeB1k6ig2Km9SiUAyiTwL4tH5`
-BITCOIN: `bc1q5am8h9yxkwf53n86nv08pqr047zmvx3vq4zud0`
+* ⭐ **MONERO**: `89QqHoqzbucCoBjeR5rEg8GwbRga6D1AWLAfQsBoLpLRDEL8smKaPERQbVQMcwHkJV8PbRVeB1k6ig2Km9SiUAyiTwL4tH5`
+
+* BITCOIN: `bc1q5am8h9yxkwf53n86nv08pqr047zmvx3vq4zud0`
 
