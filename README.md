@@ -18,11 +18,7 @@ If you want to collaborate to any of my projects, you are **very welcome to do s
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pluja&repo=awesome-privacy&theme=dark)](https://github.com/pluja/awesome-privacy)
 
-### Support my work ☕:
+### [Support my work ☕](https://github.com/pluja/pluja/blob/main/SUPPORT.md):
 
-If you like what I do, you can buy me a coffee! (Or just chat with me at: `pluja` at `r3d` dot `red`)
-
-* ⭐ **MONERO**: `89QqHoqzbucCoBjeR5rEg8GwbRga6D1AWLAfQsBoLpLRDEL8smKaPERQbVQMcwHkJV8PbRVeB1k6ig2Km9SiUAyiTwL4tH5`
-
-* BITCOIN: `bc1q5am8h9yxkwf53n86nv08pqr047zmvx3vq4zud0`
+If you like what I do, you can [buy me a coffee](https://github.com/pluja/pluja/blob/main/SUPPORT.md)! (Or just chat with me at: `pluja` at `r3d` dot `red`).
 
