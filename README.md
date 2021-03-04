@@ -20,5 +20,7 @@ If you want to collaborate to any of my projects, you are **very welcome to do s
 
 ### [Support my work ☕](https://github.com/pluja/pluja/blob/main/SUPPORT.md):
 
-If you like what I do, you can [buy me a coffee](https://github.com/pluja/pluja/blob/main/SUPPORT.md)! (Or just chat with me at: `pluja` at `r3d` dot `red`).
+We can chat on [**Matrix**](https://matrix.to/#/@pluja:privacytools.io) (Or at: `pluja` at `r3d` dot `red`).
+
+If you like what I do, you can [buy me a coffee](https://github.com/pluja/pluja/blob/main/SUPPORT.md)!
 
