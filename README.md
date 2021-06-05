@@ -6,17 +6,13 @@
 
 If you want to collaborate to any of my projects, you are **very welcome to do so**. 
 
-<a href="https://github.com/pluja">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pluja&show_icons=true&theme=dark" alt="Details card" />
-</a>
-
 ### My top projects:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pluja&repo=awesome-privacy&theme=dark)](https://github.com/pluja/awesome-privacy)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ytorg&repo=yotter&theme=dark)](https://github.com/ytorg/yotter)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pluja&repo=kycnot&theme=dark)](https://github.com/pluja/kycnot)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pluja&repo=awesome-privacy&theme=dark)](https://github.com/pluja/awesome-privacy)
 
 ### [Support my work ☕](https://github.com/pluja/pluja/blob/main/SUPPORT.md):
 
@@ -24,3 +20,14 @@ We can chat on [**Matrix**](https://matrix.to/#/@pluja:privacytools.io) (Or at: 
 
 If you like what I do, you can [buy me a coffee](https://github.com/pluja/pluja/blob/main/SUPPORT.md)!
 
+### Github Stats:
+
+<a href="https://github.com/pluja">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pluja&show_icons=true&theme=dark" alt="Details card" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=pluja&theme=onedark" alt="Details card" />
+</a>
