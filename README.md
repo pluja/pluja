@@ -18,7 +18,7 @@ We can chat on [**Matrix**](https://matrix.to/#/@pluja:privacytools.io) (Or: `pl
 
 My public self-hosted instances:
 - [x] [Libreddit](https://github.com/spikecodes/libreddit) - https://libreddit.r3d.red/
-- [ ] [Nitter](https://github.com/zedeus/nitter) - Coming soon
+- [x] [Nitter](https://github.com/zedeus/nitter) - https://nitter.r3d.red/
 - [ ] [Piped](https://github.com/TeamPiped/Piped) - Coming soon
 
 If you like what I do, you can [support me](https://github.com/pluja/pluja/blob/main/SUPPORT.md)!
