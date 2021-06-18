@@ -12,6 +12,8 @@ If you want to collaborate to any of my projects, you are **very welcome to do s
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pluja&repo=kycnot&theme=dark)](https://github.com/pluja/kycnot)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pluja&repo=feetter&theme=dark)](https://github.com/pluja/feetter)
+
 ### [Support my work ☕](https://github.com/pluja/pluja/blob/main/SUPPORT.md):
 
 We can chat on [**Matrix**](https://matrix.to/#/@pluja:privacytools.io) (Or: `pluja` at `r3d` dot `red`).
