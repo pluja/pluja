@@ -4,7 +4,7 @@
 
 If you want to collaborate to any of my projects, you are **very welcome to do so**. 
 
-We can chat on [**Matrix**](https://matrix.to/#/@pluja:privacytools.io) (Or: `pluja` at `r3d` dot `red`).
+We can chat on [**Matrix**](https://matrix.to/#/@pluja:matrix.org) (Or: `pluja` at `r3d` dot `red`).
 
 If you like what I do, you can [support me](https://github.com/pluja/pluja/blob/main/SUPPORT.md)!
 
