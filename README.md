@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Pluja
 
-🔭 I think **privacy is a basic human right**, so I build, teach and fight in favor of privacy. This last year I built two of my best-known projects: [KYCNOT](https://github.com/pluja/kycnot) and [Yotter](https://github.com/ytorg/yotter). I also mantain an **awesome-list** called [awesome-privacy](https://github.com/pluja/awesome-privacy) where you can find plenty of privacy-friendly alternatives to privative services.
+🔭 I think **privacy is a basic human right**, so I build, teach and fight in favor of privacy. You may want to check some of my best-known projects: [KYCNOT](https://codeberg.org/pluja/kycnot.me), [Yotter (Archived)](https://github.com/ytorg/yotter) and [iseeyour.cash](https://codeberg.org/pluja/iseeyour.cash). I also mantain an **awesome-list** called [awesome-privacy](https://github.com/pluja/awesome-privacy) where you can find plenty of privacy-friendly alternatives to privative services.
 
 If you want to collaborate to any of my projects, you are **very welcome to do so**. 
 
-We can chat on [**Matrix**](https://matrix.to/#/@pluja:matrix.org) (Or: `pluja` at `r3d` dot `red`).
+Reach me by mail at `pluja` at `r3d` dot `red`.
 
-If you like what I do, you can [support me](https://github.com/pluja/pluja/blob/main/SUPPORT.md)!
+If you like what I do, you can [support me](https://kycnot.me/support)!
 
 ### Github Stats:
 
