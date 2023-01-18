@@ -6,7 +6,7 @@
 
 📨 Reach me by mail at `pluja` [at] `r3d` [dot] `red` or 
 
-🛡️ Use my [Session](https://getsession.org) ID if you want **E2E** encrypted communication: `0579a1b1d2692b4f0a19bd5d766400f9c7a076f46a47ae33f90742da3366a25168`
+🛡️ Use [XMPP](https://conversations.im) if you want **E2E** encrypted communication: `kycnotme@conversations.im`
 
 ☕ If you like what I do, you can [support me](https://kycnot.me/about#support)!
 
