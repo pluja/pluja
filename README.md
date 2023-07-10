@@ -9,9 +9,3 @@
 🛡️ Use [XMPP](https://conversations.im) if you want **E2E** encrypted communication: `kycnotme@conversations.im`
 
 ☕ If you like what I do, you can [support me](https://kycnot.me/about#support)!
-
-### Github Stats:
-
-<a href="https://github.com/pluja">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pluja&show_icons=true&theme=dark" alt="Details card" />
-</a
