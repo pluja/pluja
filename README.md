@@ -7,7 +7,7 @@
 - [Whishper](https://github.com/pluja/whishper)
 - [Blogo](https://blogo.site)
 - [usenostr.org](https://usenostr.org)
-- [Nerostr](https://codeberg.org/pluja/nerostr)
+- [Nerostr](https://github.com/pluja/nerostr)
 
 ✍️ If you want to collaborate to any of my projects, you are **very welcome to do so**. 
 
