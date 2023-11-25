@@ -6,6 +6,7 @@
 - [KYCNOT.me](https://gitlab.com/kycnot/kycnot.me)
 - [Whishper](https://github.com/pluja/whishper)
 - [Blogo](https://blogo.site)
+- [Maestro](https://github.com/pluja/maestro)
 - [usenostr.org](https://usenostr.org)
 - [Nerostr](https://github.com/pluja/nerostr)
 
