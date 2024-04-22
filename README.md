@@ -3,7 +3,7 @@
 🔭 I think **privacy is a basic human right**, so I build, teach and fight in favor of privacy. You may want to check some of my projects: 
 
 - [awesome-privacy](https://github.com/pluja/awesome-privacy)
-- [KYCNOT.me](https://gitlab.com/kycnot/kycnot.me)
+- [KYCNOT.me](https://kycnot.me)
 - [Whishper](https://github.com/pluja/whishper)
 - [Blogo](https://blogo.site)
 - [Maestro](https://github.com/pluja/maestro)
