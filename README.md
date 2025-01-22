@@ -3,12 +3,12 @@
 🔭 I think **privacy is a basic human right**, so I build, teach and fight in favor of privacy. You may want to check some of my projects: 
 
 - [awesome-privacy](https://github.com/pluja/awesome-privacy)
-- [KYCNOT.me](https://kycnot.me)
-- [Whishper](https://github.com/pluja/whishper)
-- [Blogo](https://blogo.site)
-- [Maestro](https://github.com/pluja/maestro)
+- [KYCnot.me](https://kycnot.me)
+- [whishper](https://github.com/pluja/whishper)
+- [blogo](https://blogo.site)
 - [usenostr.org](https://usenostr.org)
-- [Nerostr](https://github.com/pluja/nerostr)
+- [nerostr](https://github.com/pluja/nerostr)
+- [pocketjson](https://github.com/pluja/pocketjson)
 
 ✍️ If you want to collaborate to any of my projects, you are **very welcome to do so**. 
 
